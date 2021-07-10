@@ -51,7 +51,10 @@ export default function App() {
 						<Navbar />
 
 						<Switch class="switch">
-							<Route path="/" component={Home} />
+							<Route
+								path={process.env.PUBLIC_URL + "/"}
+								component={Home}
+							/>
 							<Route path="/typetimerweb" component={Home} />
 							<Route
 								exact
