@@ -50,8 +50,9 @@ export default function App() {
 					<Container height="100vh">
 						<Navbar />
 
-						<Switch class='switch'>
+						<Switch class="switch">
 							<Route exact path="/" component={Home} />
+							<Route exact path="/typetimerweb" component={Home} />
 							<Route
 								exact
 								path="/game/create"
@@ -67,8 +68,7 @@ export default function App() {
 								render={(props) => (
 									<Game {...props} gameState={gameState} />
 								)}
-							>
-							</Route>
+							></Route>
 						</Switch>
 					</Container>
 				</ColorModeProvider>
