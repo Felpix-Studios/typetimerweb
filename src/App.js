@@ -55,7 +55,7 @@ export default function App() {
 							<Route path="/typetimerweb" component={Home} />
 							<Route
 								exact
-								path="/game/create"
+								path={process.env.PUBLIC_URL+"/game/create"}
 								component={CreateGame}
 							/>
 							<Route
