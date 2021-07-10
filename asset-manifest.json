@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/typetimerweb/static/css/main.6a5866d0.chunk.css",
-    "main.js": "/typetimerweb/static/js/main.905aa38f.chunk.js",
-    "main.js.map": "/typetimerweb/static/js/main.905aa38f.chunk.js.map",
+    "main.js": "/typetimerweb/static/js/main.cdf3e5ec.chunk.js",
+    "main.js.map": "/typetimerweb/static/js/main.cdf3e5ec.chunk.js.map",
     "runtime-main.js": "/typetimerweb/static/js/runtime-main.83897b5c.js",
     "runtime-main.js.map": "/typetimerweb/static/js/runtime-main.83897b5c.js.map",
     "static/js/2.b88b76e5.chunk.js": "/typetimerweb/static/js/2.b88b76e5.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.83897b5c.js",
     "static/js/2.b88b76e5.chunk.js",
     "static/css/main.6a5866d0.chunk.css",
-    "static/js/main.905aa38f.chunk.js"
+    "static/js/main.cdf3e5ec.chunk.js"
   ]
 }
