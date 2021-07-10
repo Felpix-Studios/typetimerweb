@@ -51,8 +51,8 @@ export default function App() {
 						<Navbar />
 
 						<Switch class="switch">
-							<Route exact path="/" component={Home} />
-							<Route exact path="/typetimerweb" component={Home} />
+							<Route path="/" component={Home} />
+							<Route path="/typetimerweb" component={Home} />
 							<Route
 								exact
 								path="/game/create"
